@@ -4,6 +4,8 @@ package org.micro.mapper;
 
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
+import org.micro.dto.OrderDTO;
+import org.micro.entity.Order;
 
 @Mapper
 public interface OrderMapper {

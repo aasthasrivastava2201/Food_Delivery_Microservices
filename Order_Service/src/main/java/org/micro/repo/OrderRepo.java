@@ -1,6 +1,6 @@
 package org.micro.repo;
 
-import com.codedecode.order.entity.Order;
+import org.micro.entity.Order;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 
